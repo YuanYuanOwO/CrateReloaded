@@ -23,6 +23,7 @@
   - [Screenshots](reference/screenshots.md)
   - [FAQ](reference/faq.md)
 - **Upgrade**
-  - [1.X to 2.X](reference/update.md)
+  - [1.X.X to 2.X.X](reference/update-2.0.X.md)
+  - [2.0.X to 2.1.X](reference/update-2.1.X.md)
 - **API** (For Developers)
   - [Essentials](api/basic.md)
